@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446820079 source:/media/sf_vmshare/workspace/stctok/main.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
